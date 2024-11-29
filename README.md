@@ -1,6 +1,6 @@
-# BBSGen - Random Sequence Generator using Blum Blum Shub Algorithm
+## BBS_Gen - Random Sequence Generator using Blum Blum Shub Algorithm
 
-BBSGen is a C program that generates random DNA, RNA, or protein sequences using the [Blum Blum Shub (BBS)](https://en.wikipedia.org/wiki/Blum_Blum_Shub) algorithm for cryptographically secure random number generation.
+BBSGen is a C program that generates random DNA, RNA, or protein sequences using the Blum Blum Shub (BBS) algorithm for cryptographically secure random number generation.
 
 *[Blum Blum Shub (BBS)](https://en.wikipedia.org/wiki/Blum_Blum_Shub) algorithm is a cryptographically secure random number generator based on computing squares modulo n = p * q, where p and q are large prime numbers. The algorithm generates a sequence of random bits by extracting the least significant bits from each result. Its main feature is a high degree of randomness and cryptographic strength, making it unpredictable without knowledge of the secret parameters.*
 
@@ -79,7 +79,7 @@ make clean
 
 Result:
 
-<img src="results/random_sequence_model.png" alt="Random Sequence Model" width="400"/>
+<img src="results/random_sequence_model.png" alt="Random Sequence Model" width="800"/>
 
 
 
