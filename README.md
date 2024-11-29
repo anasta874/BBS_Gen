@@ -74,8 +74,11 @@ make clean
 ```
 
 
-*By the way, a random protein generated using bbsgen was utilized for testing AlphaFold3. 
-AlphaFold is not a physical simulator and relies on the data it was trained on. As a result, it is limited in its ability to predict structures for random or artificially designed sequences that do not reflect the patterns of natural proteins.*
+##
+
+*By the way, a random protein generated using bbsgen was utilized for testing AlphaFold3.*
+
+*AlphaFold is not a physical simulator and relies on the data it was trained on. As a result, it is limited in its ability to predict structures for random or artificially designed sequences that do not reflect the patterns of natural proteins.*
 
 Result:
 
