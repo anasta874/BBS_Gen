@@ -79,6 +79,8 @@ make clean
 
 Result:
 
+<img src="results/random_sequence_model.png" alt="Random Sequence Model" width="400"/>
+
 
 
 
